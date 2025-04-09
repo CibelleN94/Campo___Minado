@@ -56,5 +56,28 @@ h1 {
     color: white;
 }
 
+@media screen and (max-width: 1020px) {
 
+    body {
+        text-align: center;
+        
+    }
+    h1 {
+     margin: auto;
+     font-size: 1.8em;
+    }
 
+    #container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+      
+
+    }
+
+  
+
+    
+
+}
