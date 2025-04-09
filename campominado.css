@@ -96,7 +96,7 @@ h1 {
     }
 
     #game-container {
-        grid-template-columns: repeat(5, 55px);
+        grid-template-columns: repeat(6, 40px);
         grid-gap: 4px;
         padding: 6px;
     }
