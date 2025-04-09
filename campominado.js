@@ -1,6 +1,6 @@
 const gameContainer = document.getElementById('game-container')
 const rows = 10;
-const cols = 8;
+const cols = 6;
 const bombCount = 10;
 
 let cells = [];
