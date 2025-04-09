@@ -1,7 +1,7 @@
 const gameContainer = document.getElementById('game-container')
 const rows = 10;
-const cols = 10;
-const bombCount = 14;
+const cols = 8;
+const bombCount = 10;
 
 let cells = [];
 function createBoard() {
